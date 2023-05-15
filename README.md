@@ -18,6 +18,7 @@ The goal of the project is to select and create the best prediction algorithm to
 * `round_winner`: which team won that round (this is the objective variable)
 * `time_left`: the time left in the game in which the snapshot of the parameters was generated
 * `ct_score`: the CT team score of the game without including the round being played
+* `t_score`: the T team score of the game without including the round being played
 * `map`: the map in which the game is being played
 * `bomb_planted`: a boolean indicating if the bomb was already planted in the round
 * `ct_health`: the CT team total health at that point of the round
