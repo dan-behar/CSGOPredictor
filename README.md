@@ -27,4 +27,4 @@ The goal of the project is to select and create the best prediction algorithm to
 * `t_armor`: the T team total armor points at that moment of the round
 * `ct_money`: the CT team total money at that moment of the round
 * `t_money`: the T team total money at that moment of the round
-* The other columns are all of guns in the game, classified by team. They store the total amount of that type of gun for each team in that moment of the game
+* The other columns are all of the guns in the game, classified by team. They store the total amount of that type of gun for each team in that moment of the game
